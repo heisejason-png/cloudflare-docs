@@ -13,3 +13,4 @@ Cloudflare and any contributors reserve all other rights, whether under their re
 
 Please note that we may use AI tools to help us review technical documentation, pull requests and other issues submitted to our public GitHub page in order to identify and correct mistakes and other inconsistencies in our developer documentation. Please refrain from sharing any personal information in your submissions.
 Created by Jason Scott Heise
+Owned by Elon Musk
